@@ -6,8 +6,6 @@ The system is designed for system administrators or infrastructure teams who nee
 
 The project separates static hardware information from dynamic usage data, which helps avoid redundancy and improves data organization. The main technologies used include Bash scripting, Docker, PostgreSQL, Git, and Linux commands such as lscpu, vmstat, and df.
 
----
-
 # Quick Start
 
 ```bash
@@ -66,7 +64,7 @@ This file contains SQL queries used to analyze system performance trends,
 ## Database Modeling
 
 ### host_info
-
+-----------------------------------------------------------
 | Column            | Description                          |
 |-------------------|--------------------------------------|
 | id                | Unique ID for each host              |
@@ -78,11 +76,10 @@ This file contains SQL queries used to analyze system performance trends,
 | l2_cache          | L2 cache size                        |
 | total_mem         | Total memory                         |
 | timestamp         | Record creation time                 |
-
----
+------------------------------------------------------------
 
 ### host_usage
-
+-----------------------------------------------------------
 | Column           | Description                          |
 |------------------|--------------------------------------|
 | timestamp        | Time of data collection              |
@@ -92,7 +89,7 @@ This file contains SQL queries used to analyze system performance trends,
 | cpu_kernel       | CPU kernel usage                     |
 | disk_io          | Disk I/O                             |
 | disk_available   | Available disk space                 |
-
+-----------------------------------------------------------
 
 
 #Test
@@ -121,9 +118,10 @@ Once deployed, the monitoring agent runs automatically with minimal manual effor
 
 The project was deployed using:
 
-Docker to run PostgreSQL database
-Bash scripts to collect system data
-Crontab to automate data collection
+- Docker to run PostgreSQL database
+- Bash scripts to collect system data
+- Crontab to automate data collection
+- <img width="2158" height="729" alt="architecture" src="https://github.com/user-attachments/assets/508020d2-c5bf-4e05-80d1-5f060e4e38b6" />
 GitHub for version control
 
 Once deployed, the monitoring agent runs automatically with minimal manual effort.
