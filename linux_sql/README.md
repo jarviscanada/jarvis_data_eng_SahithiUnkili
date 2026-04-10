@@ -104,6 +104,7 @@ The system was tested by running each script and verifying database results:
 6.Results were validated using SQL queries
 
 #Deployment
+![Architecture](asset/architecture.png)
 
 The project was deployed using:
 
@@ -121,7 +122,6 @@ The project was deployed using:
 - Docker to run PostgreSQL database
 - Bash scripts to collect system data
 - Crontab to automate data collection
-- <img width="2158" height="729" alt="architecture" src="https://github.com/user-attachments/assets/508020d2-c5bf-4e05-80d1-5f060e4e38b6" />
-GitHub for version control
+- GitHub for version control
 
 Once deployed, the monitoring agent runs automatically with minimal manual effort.
