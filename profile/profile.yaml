@@ -1,0 +1,140 @@
+# Preferred name (Characters only)
+name: "Sahithi unkili"
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/SahithiUnkili
+
+# Introduce yourself, your academic and professional background.
+# What excites you about the software industry and your passion. At least 80 words
+summary: "Strategic Data & AI professional with 3 years of experience translating complex business challenges into scalable, data-driven solutions. Expertise in Python, SQL, and Azure Databricks for building and optimizing data pipelines while ensuring data quality and production reliability. Skilled at bridging business and technical teams to drive analytics and AI initiatives that improve decision-making and streamline operations. Experienced in Agile environments, delivering measurable impact with a focus on responsible, user-centric AI."
+
+# Group your skills by level.
+# Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
+skills:
+  # At least 5 skills
+  proficient:
+    - Python (Pandas, NumPy, data processing)
+    - SQL (joins, window functions, query optimization)
+    - ETL pipeline development
+    - Data modeling (relational schema design)
+    - Data analysis & preprocessing
+  # At least 5 skills
+  competent:
+    - Agile/Scrum
+    - AWS (S3, basic data workflows)
+    - Azure Databricks
+    - Docker (containerization)
+    - Linux & Bash scripting (cron jobs, automation)
+  # At least 5 skills
+  familiar:
+    - Spark / PySpark
+    - BigQuery / cloud data warehouses
+    - Machine Learning pipelines (scikit-learn, model workflows)
+    - Data visualisation tools (Tableau)
+    - Apache Airflow (workflow orchestration)
+
+# List of Jarvis projects
+jarvis_projects:
+  - name: "Cluster Monitor"
+    git_url: "/linux_sql"
+    # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+    description: "Developed a Linux cluster monitoring solution using Bash scripts, PostgreSQL, Docker, and cron to capture hardware and resource utilization data, improving visibility into server health and creating a foundation for scalable monitoring automation."
+
+  - name: "Core Java Apps"
+    git_url: "/core_java"
+    description:
+      - "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+      - "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+      - "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+  - name: "Springboot App"
+    git_url: "/springboot"
+    description: ""
+  - name: "Python Data Analytics"
+    git_url: "/python_data_anlytics"
+    description: ""
+  - name: "Hadoop"
+    git_url: "/hadoop"
+    description: ""
+  - name: "Spark"
+    git_url: "/spark"
+    description: ""
+  - name: "Cloud/DevOps"
+    git_url: "/cloud_devops"
+    description: ""
+
+# List of personal or academic projects
+# Feel free to add more projects
+highlighted_projects:
+  - name: "Weather Data Engineering Pipelines"
+    git_url: ""
+    description: "Built scalable ETL pipelines to ingest historical, real-time, and forecast weather data from APIs into SQL Server, addressing fragmented and unreliable weather data sources; enabled consistent, structured data availability for downstream analytics, improving decision-making for location-based insights and forecasting use cases."
+
+  - name: "Customer360 Data Modeling & SQL Analytics"
+    git_url: ""
+    description: "Designed and optimized relational data models and complex SQL queries to unify fragmented customer data across sources, enabling a 360-degree customer view; supported targeted marketing, improved segmentation, and more accurate business insights through efficient data retrieval."
+
+  - name: "Airbnb Data Processing Pipeline"
+    git_url: "https://github.com/sahithiunkili/DataScience/blob/main/Airbnb_NYC_Economic_Summary.doc"
+    description: "Processed and cleaned large-scale Airbnb datasets using Python, addressing inconsistencies, missing values, and data quality issues; enabled reliable downstream analysis to uncover pricing trends and demand patterns, supporting data-driven market and investment decisions."
+
+  - name: "Olist E-commerce Experiment Design"
+    git_url: "https://github.com/sahithiunkili/DataScience/blob/main/Olist_experimentation_Report.doc"
+    description: "Structured experimental datasets and engineered features to evaluate seller prioritization strategies, addressing uncertainty in marketplace ranking decisions; enabled analysis of customer satisfaction and revenue impact, supporting data-driven optimization of platform performance."
+
+#List of professional experience
+#The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+#The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "Data Engineer"
+    company: "Jarvis"
+    duration: "2026-Present"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Developed and deployed a Linux-based monitoring agent to collect and store system performance metrics using Bash scripting, PostgreSQL, and Docker, implementing automated data collection via cron jobs; strengthened understanding of data pipelines, system design, and production-ready data ingestion workflows."
+
+  - title: "Data & Analytics Consultant"
+    company: "Deloitte (AICP Project)"
+    duration: "2025-2026"
+    description: "Designed a data-driven Solutions Evaluation Module (SEM) for Non-Wires Alternatives to address electricity grid constraints, applying optimization techniques including linear programming and scenario modeling; enabled cost-efficient infrastructure planning and improved decision-making by quantifying trade-offs across demand response and battery storage strategies."
+
+  - title: "Business Technology Analyst"
+    company: "ZS Associates"
+    duration: "2021-2023"
+    description: "Built and maintained data pipelines and analytics solutions using Python, SQL, and cloud platforms to process large-scale client datasets, improving data accessibility and reporting efficiency; collaborated cross-functionally to translate business requirements into scalable data solutions supporting strategic decision-making for global clients."
+
+#List of edcuation
+education: 
+  - school_name: "Schulich School of Business, York university"
+    duration: "2025-2026"
+    degree: "Masters"
+    department: "Masters of Management in Artificial intelligence"
+    # optional
+    awards_achievements: 
+      - "Dean's Cup Winner"
+      - "President of Schulich AI & Analytics Club"
+      - "Dean's List (2025-2026)"
+      - "GPA: 3.9/4.0"
+
+  - school_name: "Birla Institute of Technology"
+    duration: "2017-2021"
+    degree: "Bachelors of Engineering"
+    department: "Electronicsand Communication Engineering"
+    awards_achievements:
+      - "Student Placement Co-ordinator"
+      - "Gold Medal-Shot put"
+
+#Optional section
+others:
+    #category
+  - title: "Certificates"
+    #list of items
+    bullets:
+      - "Microsoft Certified: Azure AI Fundamentals (AI-900)"
+  - title: "Awards"
+    bullets:
+      - "Winner of Telus - AI at the edge of innovation Challenge"
+      - "Won 2nd Place @ Digital Innovation Challenge (University of Calgary)"
+  - title: "Activities/Hobbies"
+    bullets:
+      - "Shot put player"
+      - "Authentic Cooking"
+      - "Event Planning"

@@ -1,0 +1,158 @@
+{
+  "education": [
+    {
+      "awards_achievements": [
+        "Dean's Cup Winner",
+        "President of Schulich AI \u0026 Analytics Club",
+        "Dean's List (2025-2026)",
+        "GPA: 3.9/4.0"
+      ],
+      "degree": "Masters",
+      "department": "Masters of Management in Artificial intelligence",
+      "duration": "2025-2026",
+      "school_name": "Schulich School of Business, York university"
+    },
+    {
+      "awards_achievements": [
+        "Student Placement Co-ordinator",
+        "Gold Medal-Shot put"
+      ],
+      "degree": "Bachelors of Engineering",
+      "department": "Electronicsand Communication Engineering",
+      "duration": "2017-2021",
+      "school_name": "Birla Institute of Technology"
+    }
+  ],
+  "github_repo_root_url": "https://github.com/SahithiUnkili",
+  "highlighted_projects": [
+    {
+      "description": "Built scalable ETL pipelines to ingest historical, real-time, and forecast weather data from APIs into SQL Server, addressing fragmented and unreliable weather data sources; enabled consistent, structured data availability for downstream analytics, improving decision-making for location-based insights and forecasting use cases.",
+      "git_url": "",
+      "name": "Weather Data Engineering Pipelines"
+    },
+    {
+      "description": "Designed and optimized relational data models and complex SQL queries to unify fragmented customer data across sources, enabling a 360-degree customer view; supported targeted marketing, improved segmentation, and more accurate business insights through efficient data retrieval.",
+      "git_url": "",
+      "name": "Customer360 Data Modeling \u0026 SQL Analytics"
+    },
+    {
+      "description": "Processed and cleaned large-scale Airbnb datasets using Python, addressing inconsistencies, missing values, and data quality issues; enabled reliable downstream analysis to uncover pricing trends and demand patterns, supporting data-driven market and investment decisions.",
+      "git_url": "https://github.com/sahithiunkili/DataScience/blob/main/Airbnb_NYC_Economic_Summary.doc",
+      "name": "Airbnb Data Processing Pipeline"
+    },
+    {
+      "description": "Structured experimental datasets and engineered features to evaluate seller prioritization strategies, addressing uncertainty in marketplace ranking decisions; enabled analysis of customer satisfaction and revenue impact, supporting data-driven optimization of platform performance.",
+      "git_url": "https://github.com/sahithiunkili/DataScience/blob/main/Olist_experimentation_Report.doc",
+      "name": "Olist E-commerce Experiment Design"
+    }
+  ],
+  "jarvis_projects": [
+    {
+      "description": "Developed a Linux cluster monitoring solution using Bash scripts, PostgreSQL, Docker, and cron to capture hardware and resource utilization data, improving visibility into server health and creating a foundation for scalable monitoring automation.",
+      "git_url": "/linux_sql",
+      "name": "Cluster Monitor"
+    },
+    {
+      "description": [
+        "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
+        "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
+        "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+      ],
+      "git_url": "/core_java",
+      "name": "Core Java Apps"
+    },
+    {
+      "description": "",
+      "git_url": "/springboot",
+      "name": "Springboot App"
+    },
+    {
+      "description": "",
+      "git_url": "/python_data_anlytics",
+      "name": "Python Data Analytics"
+    },
+    {
+      "description": "",
+      "git_url": "/hadoop",
+      "name": "Hadoop"
+    },
+    {
+      "description": "",
+      "git_url": "/spark",
+      "name": "Spark"
+    },
+    {
+      "description": "",
+      "git_url": "/cloud_devops",
+      "name": "Cloud/DevOps"
+    }
+  ],
+  "name": "Sahithi unkili",
+  "others": [
+    {
+      "bullets": [
+        "Microsoft Certified: Azure AI Fundamentals (AI-900)"
+      ],
+      "title": "Certificates"
+    },
+    {
+      "bullets": [
+        "Winner of Telus - AI at the edge of innovation Challenge",
+        "Won 2nd Place @ Digital Innovation Challenge (University of Calgary)"
+      ],
+      "title": "Awards"
+    },
+    {
+      "bullets": [
+        "Shot put player",
+        "Authentic Cooking",
+        "Event Planning"
+      ],
+      "title": "Activities/Hobbies"
+    }
+  ],
+  "professional_experience": [
+    {
+      "company": "Jarvis",
+      "description": "Developed and deployed a Linux-based monitoring agent to collect and store system performance metrics using Bash scripting, PostgreSQL, and Docker, implementing automated data collection via cron jobs; strengthened understanding of data pipelines, system design, and production-ready data ingestion workflows.",
+      "duration": "2026-Present",
+      "title": "Data Engineer"
+    },
+    {
+      "company": "Deloitte (AICP Project)",
+      "description": "Designed a data-driven Solutions Evaluation Module (SEM) for Non-Wires Alternatives to address electricity grid constraints, applying optimization techniques including linear programming and scenario modeling; enabled cost-efficient infrastructure planning and improved decision-making by quantifying trade-offs across demand response and battery storage strategies.",
+      "duration": "2025-2026",
+      "title": "Data \u0026 Analytics Consultant"
+    },
+    {
+      "company": "ZS Associates",
+      "description": "Built and maintained data pipelines and analytics solutions using Python, SQL, and cloud platforms to process large-scale client datasets, improving data accessibility and reporting efficiency; collaborated cross-functionally to translate business requirements into scalable data solutions supporting strategic decision-making for global clients.",
+      "duration": "2021-2023",
+      "title": "Business Technology Analyst"
+    }
+  ],
+  "skills": {
+    "competent": [
+      "Agile/Scrum",
+      "AWS (S3, basic data workflows)",
+      "Azure Databricks",
+      "Docker (containerization)",
+      "Linux \u0026 Bash scripting (cron jobs, automation)"
+    ],
+    "familiar": [
+      "Spark / PySpark",
+      "BigQuery / cloud data warehouses",
+      "Machine Learning pipelines (scikit-learn, model workflows)",
+      "Data visualisation tools (Tableau)",
+      "Apache Airflow (workflow orchestration)"
+    ],
+    "proficient": [
+      "Python (Pandas, NumPy, data processing)",
+      "SQL (joins, window functions, query optimization)",
+      "ETL pipeline development",
+      "Data modeling (relational schema design)",
+      "Data analysis \u0026 preprocessing"
+    ]
+  },
+  "summary": "Strategic Data \u0026 AI professional with 3 years of experience translating complex business challenges into scalable, data-driven solutions. Expertise in Python, SQL, and Azure Databricks for building and optimizing data pipelines while ensuring data quality and production reliability. Skilled at bridging business and technical teams to drive analytics and AI initiatives that improve decision-making and streamline operations. Experienced in Agile environments, delivering measurable impact with a focus on responsible, user-centric AI."
+}
