@@ -5,8 +5,7 @@ github_repo_root_url: https://github.com/SahithiUnkili
 
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
-summary: "Strategic Data & AI professional with 3 years of experience translating complex business challenges into scalable, data-driven solutions. Expertise in Python, SQL, and Azure Databricks for building and optimizing data pipelines while ensuring data quality and production reliability. Skilled at bridging business and technical teams to drive analytics and AI initiatives that improve decision-making and streamline operations. Experienced in Agile environments, delivering measurable impact with a focus on responsible, user-centric AI."
-
+summary: "Strategic Data & AI professional with 3 years of experience translating complex business challenges into scalable, data-driven solutions. Expertise in Python, SQL, and Azure Databricks for building and optimizing data pipelines while ensuring data quality and production reliability. Skilled at bridging business and technical teams to drive analytics and AI initiatives that improve decision-making and streamline operations. Experienced in Agile environments, delivering measurable impact with a focus on responsible & ethical AI."
 # Group your skills by level.
 # Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
 skills:
@@ -20,6 +19,7 @@ skills:
   # At least 5 skills
   competent:
     - Agile/Scrum
+    - GCP
     - AWS (S3, basic data workflows)
     - Azure Databricks
     - Docker (containerization)
@@ -39,27 +39,12 @@ jarvis_projects:
     # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
     description: "Developed a Linux cluster monitoring solution using Bash scripts, PostgreSQL, Docker, and cron to capture hardware and resource utilization data, improving visibility into server health and creating a foundation for scalable monitoring automation."
 
-  - name: "Core Java Apps"
-    git_url: "/core_java"
+  - name: "Retail Customer Intelligence & Revenue Optimization Analytics"
+    git_url: "/python_data_analytics"
     description:
-      - "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-      - "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-      - "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-  - name: "Springboot App"
-    git_url: "/springboot"
-    description: ""
-  - name: "Python Data Analytics"
-    git_url: "/python_data_anlytics"
-    description: ""
-  - name: "Hadoop"
-    git_url: "/hadoop"
-    description: ""
-  - name: "Spark"
-    git_url: "/spark"
-    description: ""
-  - name: "Cloud/DevOps"
-    git_url: "/cloud_devops"
-    description: ""
+      - "Developed an RFM-based customer segmentation engine to classify customers into Champions, Loyal, At-Risk, and Lost segments, enabling targeted marketing and customer retention strategies."
+      - "Processed and analyzed over 1 million retail transactions using Python, Pandas, NumPy, and Jupyter Notebook to uncover customer purchasing behavior, revenue trends, and geographic sales patterns."
+      - "Engineered data cleaning and analytics pipelines including cancellation filtering, missing-value handling, feature engineering, and executive-level business reporting to support data-driven revenue optimization initiatives."
 
 # List of personal or academic projects
 # Feel free to add more projects
